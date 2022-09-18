@@ -1,0 +1,183 @@
+/* Nabbar */
+.navbar-nav { margin-right: 30%;
+    padding: 0% 19%;
+}
+.app-logo {
+   padding: 0% 5%;
+}
+.navbar-brand { color: #000;
+    margin-left: 30%;
+}
+.collapse .nav-link { color: #000;
+}
+
+/* First Page */
+#first-page { padding: 13% 10% 7%;
+
+    background-color: rgba(0, 255, 255, 0.683);
+}
+#first-page h2 { 
+    font-family: 'Montserrat';
+    font-weight: 900;
+
+}
+.first-page-img { 
+    transform: rotate(45deg);
+    border-radius: 5%;
+    margin-left: 15%;
+}
+ /* Categories */
+
+ #categories { 
+    padding: 8% 20%;
+   
+ }
+ .icon{
+    font-size: 3rem;
+    margin-left: 30%;
+    padding: 2% 0% 29%;
+ }
+.categories-heading { text-align: center;
+    font-weight: bold;
+}
+.categories-para { 
+    text-align: center;
+    padding-bottom: 15%;
+
+}
+
+
+
+/*Interior secton*/
+#interior {padding: 0% 14% 5%;
+    position: relative;
+    left: 0%;
+}
+#interior .btn { 
+    margin-right: 70%;
+}
+
+#interior .interior-img {height: 100%;
+    width: 45%;
+
+}
+#interior .interior-heading { font-weight: 400;
+    width: 80%;
+   
+}
+#interior .interior-para {
+    width: 50%;
+   
+}
+
+/* Features section */
+#features { text-align: center;
+
+}
+#features p {
+    text-decoration: underline dotted red 50%;
+}
+.features-icon{color: #00D7FF;
+    font-size: 3rem;
+    line-height: 2;
+}
+.features-icon:hover{
+    color: palevioletred;
+}
+/*Crousel section */
+
+#big-screen { 
+    padding: 5% 7%;
+}
+
+/* featues second section */
+
+#features-second { 
+    text-align: center;
+}
+
+#features-second h2 {
+  font-weight: bold;  
+}
+
+
+
+#features-second h4 {
+    font-weight: 600;
+}
+.kabali-img{height: 120%;
+    width: 60%;
+    border-radius: 5%;
+   
+
+}
+.yoke-img {width: 60%;
+    height: 120%;
+    border-radius: 5%;
+}
+.smoke-img { width: 60%;
+    height: 120%;
+    border-radius: 5%;
+}
+/* Pricing */
+ #pricing { 
+    padding: 10% 0% 7%;
+ }
+#pricing h2 {
+    text-align: center;
+    font-weight: 700;
+}
+.top { 
+    text-align: center;
+}
+.card-text {
+    font-weight: 200;
+}
+/* Q/A section */
+#questions{ 
+    padding: 0% 15%;
+}
+.questions-head {
+    text-align: center;
+}
+.questions-para{ 
+    text-align: center;
+}
+.number{font-weight: 800;
+    color: rgb(32, 237, 237);
+    font-size: 3rem;
+    margin-left: 17%;
+}
+.number-text{
+    margin-left: 17%;
+}
+/*footer section */
+.footer-first {padding: 9% 5% 0%;
+    background-color: #00D7FF;
+}
+.foter-heading {
+    text-align: center;
+    font-weight: 700;
+}
+.foter-para { 
+    text-align: center;
+    margin-left: 21%;
+    width: 70%;
+}
+
+.my-btn {
+    text-align: center;
+    position: relative;
+    left: 38%;
+}
+
+.footer-second {
+    background-color: #000;
+   color: #fff;
+}
+.row {
+    padding: 5% 2%;
+}
+.instagram-feed-img {
+    width: 60%;
+}
